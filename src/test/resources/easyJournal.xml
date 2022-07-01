@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<journal>
+    <title>new Journal</title>
+    <contacts>
+        <address>Minsk</address>
+        <tel>1234567</tel>
+        <email>org.com</email>
+        <url>www.j.com</url>
+    </contacts>
+    <articles>
+        <article ID="1">
+            <title>title1</title>
+            <articleAuthor>author1</articleAuthor>
+            <url>article1</url>
+            <hotkeys>
+                <hotkey>language1</hotkey>
+            </hotkeys>
+        </article>
+        <article ID="2">
+            <title>title2</title>
+            <articleAuthor>author2</articleAuthor>
+            <url>article2</url>
+            <hotkeys>
+                <hotkey>language2</hotkey>
+                <hotkey>whitespace</hotkey>
+            </hotkeys>
+        </article>
+    </articles>
+ </journal>
